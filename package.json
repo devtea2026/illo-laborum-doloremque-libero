@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/illo-laborum-doloremque-libero",
-  "version": "2.7.85",
+  "version": "2.7.86",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -70,5 +70,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/illo-laborum-doloremque-libero/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
